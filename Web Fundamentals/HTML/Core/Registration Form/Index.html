@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Form</title>
+</head>
+<body>
+    <h1>Registration Form</h1>
+    <form>
+        <div>
+            <label>First Name:*</label>
+            <input type="text" name="First name" required> <br><br>
+            <label>Last Name:*</label>
+            <input type="text" name="last name" required> <br><br>
+            <label>Email address:*</label>
+            <input type="email" name="email" required> <br><br>
+            <label>Password:*</label>
+            <input type="password" id="password" required > <br><br>
+            <label>Confirm Password:*</label>
+            <input type="password" id="Confirm password" required> <br><br>
+            <label>Birthday:</label>
+            <input type="date" name="Birthday" > <br><br>
+        </div> 
+        <div>  
+            <label>Gender identity:</label><br><br>
+            <input type="radio" name="Gender identity" value="Male">
+            <label>Male</label>
+            <input type="radio" name="Gender identity" value="Female">
+            <label>Female</label>
+            <input type="radio" name="Gender identity" value="Non binary">
+            <label>Non-binary</label>
+            <input type="radio" name="Gender identity" value="not ansewer">
+            <label>I prefer not to answer</label>
+        </div>
+        <div>
+            <p>A short description about myself:</p>
+            <textarea name="text" cols="30" rows="5"></textarea>   
+        </div><br>
+        <div>
+            <select name="select">
+                <option value="javascript">javascript</option>
+                <option value="python">python</option>
+                <option value="html">html</option>
+                <option value="CSS">css</option>
+            </select>
+        </div><br>
+        <div>
+            <input type="checkbox" name="yes">
+            <label>Yes, I would like to receive periodic email updates</label>
+        </div><br>
+
+        <div>
+            <input type="submit" value="create account"><br><br>
+            <label>*indicates a required field</label>
+        </div>
+</form>
+</body>
+</html>
