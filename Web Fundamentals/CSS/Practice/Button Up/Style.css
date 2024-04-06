@@ -1,0 +1,32 @@
+.B {
+border-radius: 20px; 
+color: rgb(8, 155, 155); 
+width: 110px; 
+height: 30px;
+background-color: white;
+border: 2px solid rgb(8, 155, 155);
+
+}
+div {
+    margin:  20px;
+}
+
+.mm {
+    border-radius: 50%;
+    border: 2px solid rgb(90, 212, 172);
+    width: 40px; 
+    height: 40px;
+    font-size: 30px;
+    color: white;
+    background-color: rgb(90, 212, 172);
+}
+
+.ms {
+    width: 140px; 
+    height: 30px; 
+    border: 2px solid black;
+    background-color: rgb(113, 170, 255);
+    color:whitesmoke;
+    box-shadow: 5px 2PX 2PX black;
+    
+}
