@@ -1,0 +1,26 @@
+.row {
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.col {
+    background-color: rgb(3, 182, 182);
+    padding: 20px;
+    margin: 20px;
+    flex: 1;
+}
+
+.col-2 {
+    background-color: rgb(3, 182, 182);
+    padding: 20px;
+    margin: 20px;
+    flex: 1;
+}
+
+.col-3 {
+    background-color: rgb(3, 182, 182);
+    padding: 20px;
+    margin: 20px;
+    flex: 1;
+}
