@@ -15,10 +15,10 @@
 }
 
 .nav-links {
-display: flex;
-list-style-type: none;
-align-items: end;
-margin-right: 40px;
+    display: flex;
+    list-style-type: none;
+    align-items: end;
+    margin-right: 40px;
 
 }
 
