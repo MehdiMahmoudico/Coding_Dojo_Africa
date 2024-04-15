@@ -1,0 +1,140 @@
+body {
+    margin: 0px auto;
+    width: 950px;
+}
+
+header {
+    background-color: rgb(139, 139, 139);
+    height: 60px;
+    display: flex;
+    margin-left: 50px;
+    align-items: center;
+}
+
+label {
+    margin: 20px;
+    font-weight: bolder ;
+    margin-left: 150px ;
+    font-size:40PX;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}   
+
+.txt{
+    height: 20px;
+    margin: 20px;
+    border: 2px black solid;
+    margin-left: 70px;
+}
+
+.log {
+    height: 23px;
+    margin: 20px;
+    margin-left: 90px;
+    background-color:rgba(19, 57, 226, 0.781);
+    color: rgba(240, 248, 255, 0.897);
+    box-shadow: 3px 2px 2px rgb(0, 0, 0);
+}
+
+section {
+    margin-left: 50px;
+    display: flex;
+}
+
+.box1{
+    height: 270PX;
+    width: 550PX;
+    margin: 20px;   
+    border: 2px black solid;
+    display:flex ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    align-items: center;
+}
+
+.box2{
+    height: 270PX;
+    width: 550PX;
+    margin: 20px;   
+    border: 2px black solid;
+    display:flex ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    align-items: center;
+}
+
+.box3{
+    height: 200PX;
+    width: 650PX;
+    margin: 20px;
+    border: 2px black solid;
+    
+}
+
+.box11{
+    margin-bottom: 65PX;
+}
+
+.ninja{
+    margin-left: 20px;
+    font-size:40px;
+    font-weight: bolder;
+}
+
+.noun{
+    margin: 10px;
+    margin-left:40px;
+    font-style: italic;
+    font-size: larger;
+}
+
+.plural{
+    margin-left: 20px;
+    font-weight: bolder;
+    display: flex;
+}
+
+.likes{
+    margin-left: 25px;
+    height: 23px;
+    background-color:rgba(255, 221, 72, 0.966);
+    box-shadow: 3px 2px 2px rgb(0, 0, 0);
+    width: 70PX;
+    height: 30PX;
+}
+
+.para{
+    display: flex;
+    align-items: center;
+}
+
+.ninjas{
+    font-style: italic;
+    margin-left: 3px;
+}
+
+.pract{
+    margin-left: 90px;
+    font-size: x-large;
+}
+
+.defi {
+    margin-left: 20px;
+    font-size: 30px;
+    
+}
+
+.box33{
+    display: flex;
+}
+
+.you{
+    font-weight: bolder;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.add {
+    margin-left: 25px;
+    background-color:rgba(52, 160, 9, 0.726);
+    box-shadow: 3px 2px 2px rgb(0, 0, 0);
+    width: 200PX;
+    height: 30PX;
+}
