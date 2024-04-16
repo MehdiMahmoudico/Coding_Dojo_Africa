@@ -1,0 +1,48 @@
+body {
+    width: 950px;
+    margin: 0px auto ;
+}
+
+#be {
+    border: 3px black solid;
+    margin: 40px;
+    width: 500px;
+    height: 200px;
+    box-shadow: 1px 1px 1px;
+}
+
+#ba {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.pe {
+    margin-left: 9px;
+}
+
+h1 {
+    margin: 20px;
+}
+
+.like {
+     display: flex;
+     margin-left: 80px;
+     font-size: larger;
+
+}
+
+button {
+    margin-left: 20px;
+    width: 80px;
+    height: 40px;
+    background-color: rgba(243, 208, 92, 0.89);
+    box-shadow: 4px 3px 3px;
+    border: 3px black solid;
+    font-size: x-large;
+}
+
+.filler {
+    margin-left:30px;
+    font-size: x-large;
+}
