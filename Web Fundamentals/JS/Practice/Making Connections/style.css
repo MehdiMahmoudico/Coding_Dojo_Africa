@@ -5,7 +5,7 @@ body {
 /* <!-- Nav bar --> */
 
 #lol {
-    background-color: black;
+    background-color: #3D3D3D;
     display: flex;
     flex: 1;
 }
@@ -57,6 +57,7 @@ body {
     font-size: large;
     padding: 10px;
     font-weight: bold;
+    cursor: pointer;
 }
 
 /* user card */
@@ -143,7 +144,7 @@ body {
 }
 
 .card2 {
-    background-color: rgba(37, 37, 37, 0.89);
+    background-color: #3D3D3D;
     height: 80px; 
 }
 
@@ -188,7 +189,7 @@ body {
 }
 
 .card3 {
-    background-color: rgba(37, 37, 37, 0.89);
+    background-color: #3D3D3D;
     height: 80px; 
 }
 
@@ -233,21 +234,25 @@ body {
 .conn3 {
     width: 40px;
     margin-left: 90px;
+    cursor: pointer;
 }
 
 .conn4 {
     width: 40px;
     margin-left: 20px;
+    cursor: pointer;
 }
 
 .conn5 {
     width: 40px;
     margin-left: 92px;
+    cursor: pointer;
 }
 
 .conn6 {
     width: 40px;
     margin-left: 22px;
+    cursor: pointer;
 }
 
 /* Your connection */

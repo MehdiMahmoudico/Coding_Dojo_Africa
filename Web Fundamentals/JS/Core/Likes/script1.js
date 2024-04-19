@@ -1,5 +1,5 @@
 
-var i=3;
+var i=2;
 function boxnu(element){
-    document.querySelector('.box').innerHTML = ++i;
+    document.querySelector('.box').innerHTML = --i;
 }
